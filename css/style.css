@@ -1,0 +1,61 @@
+/* section styles */
+.container {
+    width:1171px;
+    background-color: blueviolet;
+    margin:0 auto;
+}
+.text-block {
+    width: 771px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    text-align: center;
+}
+.section-bg {
+    padding: 76.6px 0 119px 0;
+    background-color: #FAFAFA;
+}
+.box-wraper {
+    width: 371px;
+    height: 374px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.red {
+    background-color: lightseagreen;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.line01 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 773px;
+    align-content: space-between;
+}
+
+.parent-element {
+    width: 251px;
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.blue-box {
+    width: 88px;
+    height: 88px;
+    background-color: #325DFF;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-title {
+    margin: 27px 0 9px 0;
+}
